@@ -1,4 +1,4 @@
-# Project Name
+# PPT Technical Test Project
 
 This is a **.NET Full Stack Developer Technical Test** project. It is a backend API that processes a user identifier and returns an appropriate profile image URL based on specific rules.
 
