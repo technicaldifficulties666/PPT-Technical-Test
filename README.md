@@ -41,7 +41,7 @@ The application determines the profile image URL using the following rules in or
 1. Clone the repository:
    ```bash
    git clone https://github.com/technicaldifficulties666/PPT-Technical-Test.git
-   cd PPT-Technical-Test
+   cd PPT-Technical-Test/AvatarApp
 
 2. Restore project dependencies:
    ```bash
